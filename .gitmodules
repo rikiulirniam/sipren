@@ -1,0 +1,7 @@
+[submodule "sipren-api"]
+	path = sipren-api
+	url = https://github.com/rikiulirniam/sipren-api.git
+
+[submodule "sipren-client"]
+	path = sipren-client
+	url = https://github.com/rikiulirniam/sipren-client.git
